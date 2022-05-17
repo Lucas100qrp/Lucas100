@@ -1,4 +1,4 @@
-- 👋 SOBRE MIM 
+- 👋 #SOBRE MIM#
 - 👀 Eu sou Lucas 
 - 🌱 Estou enteressado em aprender a programar
 - 💞️Eu estou aprendendo a programar recentemente a linguagem de java script e scrath
